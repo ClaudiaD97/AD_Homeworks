@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/main.c
+stdio.h
+-
+test.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/test.h
+matrix.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/matrix.h
+strassen.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/strassen.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/matrix.c
+stdio.h
+-
+stdlib.h
+-
+matrix.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/matrix.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/matrix.h
+stdlib.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/strassen.c
+matrix.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/matrix.h
+stdio.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/strassen.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/test.c
+time.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/test.h
+

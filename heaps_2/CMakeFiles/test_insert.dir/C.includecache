@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_time.h
+stdlib.h
+-
+total_orders.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/total_orders.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/test_insert.c
+stdio.h
+-
+string.h
+-
+binheap.h
+-
+common/test_time.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_time.h
+
+include/binheap.h
+stdlib.h
+-
+string.h
+-
+total_orders.h
+-
+
+include/total_orders.h
+

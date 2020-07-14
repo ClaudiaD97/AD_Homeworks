@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/times.dir/tests/times.c.o  -o times -Wl,-rpath,"/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps:" libbinheap.so libcommon.a 

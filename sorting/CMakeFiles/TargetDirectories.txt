@@ -1,0 +1,3 @@
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/CMakeFiles/rebuild_cache.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/CMakeFiles/test_sorting.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/CMakeFiles/edit_cache.dir

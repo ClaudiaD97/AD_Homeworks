@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/test_insert.dir/tests/test_insert.c.o  -o test_insert -Wl,-rpath,"/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps:" libbinheap.so libcommon.a 

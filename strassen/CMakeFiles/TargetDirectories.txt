@@ -1,0 +1,3 @@
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/CMakeFiles/rebuild_cache.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/CMakeFiles/strassen_test.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/strassen/CMakeFiles/edit_cache.dir

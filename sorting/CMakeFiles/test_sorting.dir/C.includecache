@@ -1,0 +1,172 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/binheap.c
+binheap.h
+-
+string.h
+-
+stdio.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/bubble_sort.c
+bubble_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/bubble_sort.h
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+stdio.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/heap_sort.c
+heap_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/heap_sort.h
+binheap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/binheap.h
+stdio.h
+-
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/insertion_sort.c
+insertion_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/insertion_sort.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/main.c
+stdio.h
+-
+insertion_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/insertion_sort.h
+quick_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/quick_sort.h
+select.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/select.h
+bubble_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/bubble_sort.h
+selection_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/selection_sort.h
+heap_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/heap_sort.h
+utilities.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/utilities.h
+binheap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/binheap.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/quick_sort.c
+quick_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/quick_sort.h
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+stdio.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/stdio.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/select.c
+select.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/select.h
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+stdio.h
+-
+quick_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/quick_sort.h
+selection_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/selection_sort.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/selection_sort.c
+selection_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/selection_sort.h
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.c
+string.h
+-
+stdlib.h
+-
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/total_order.c
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/utilities.c
+stdlib.h
+-
+time.h
+-
+string.h
+-
+stdio.h
+-
+swap.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/swap.h
+total_order.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/total_order.h
+quick_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/quick_sort.h
+selection_sort.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/sorting/src/selection_sort.h
+
+include/binheap.h
+stdlib.h
+-
+string.h
+-
+total_order.h
+include/total_order.h
+
+include/bubble_sort.h
+stdlib.h
+-
+total_order.h
+include/total_order.h
+
+include/heap_sort.h
+stdlib.h
+-
+total_order.h
+include/total_order.h
+
+include/insertion_sort.h
+stdlib.h
+-
+total_order.h
+include/total_order.h
+
+include/quick_sort.h
+stdlib.h
+-
+utilities.h
+include/utilities.h
+total_order.h
+include/total_order.h
+
+include/select.h
+stdlib.h
+-
+utilities.h
+include/utilities.h
+total_order.h
+include/total_order.h
+
+include/selection_sort.h
+stdlib.h
+-
+total_order.h
+include/total_order.h
+
+include/swap.h
+stdlib.h
+-
+
+include/total_order.h
+
+include/utilities.h
+stdlib.h
+-
+total_order.h
+include/total_order.h
+

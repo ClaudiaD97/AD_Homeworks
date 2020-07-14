@@ -1,0 +1,10 @@
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/install/strip.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/install/local.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/install.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/list_install_components.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/common.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/binheap.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/edit_cache.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/test_delete_min.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/test_insert.dir
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/CMakeFiles/rebuild_cache.dir

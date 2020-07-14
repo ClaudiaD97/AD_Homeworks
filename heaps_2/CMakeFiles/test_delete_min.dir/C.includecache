@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/array_functions.h
+stdlib.h
+-
+binheap.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/heap_functions.h
+stdlib.h
+-
+binheap.h
+-
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_set.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_time.h
+stdlib.h
+-
+total_orders.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/total_orders.h
+
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/test_delete_min.c
+stdio.h
+-
+string.h
+-
+binheap.h
+-
+common/test_set.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_set.h
+common/test_time.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/test_time.h
+common/array_functions.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/array_functions.h
+common/heap_functions.h
+/home/claudia/Units/Algorithmic Design/AD_homeworks/code/heaps/tests/common/heap_functions.h
+
+include/binheap.h
+stdlib.h
+-
+string.h
+-
+total_orders.h
+-
+
+include/total_orders.h
+
